@@ -27,6 +27,16 @@ Folding licenses from multiple dirs with `cargo`/Cargo.toml and `yarn`/package.j
   - [x] Command line arguments.
   - [x] Prepared configuration file.
 
+## Screenshots
+
+1. Run:
+
+![image](https://user-images.githubusercontent.com/115972/169159766-00356b61-1d60-410f-812f-33ea27a33e44.png)
+
+2. And then you got the licenses for all of indivisual repos dirs!
+
+![image](https://user-images.githubusercontent.com/115972/169160142-1504668a-5d67-4c55-a4d5-07c3f6fa6c23.png)
+
 ### Install
 
 ```sh
