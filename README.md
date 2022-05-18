@@ -13,8 +13,8 @@ Folding licenses from multiple dirs with `cargo`/Cargo.toml and `yarn`/package.j
   - eg.) `fold-license -i path/to/repos1 -i path/to/repos2 -i path/to/repos3`
   - eg.) `fold-license -i path1/**/*/ -i path2/foo/bar`
 - Repos type:
-  - [x] `cargo`/Cargo.toml repos of a Rust project.
-  - [x] `yarn`/packages.json repos of a Node.js project.
+  - [x] `cargo`/Cargo.toml repos of a Rust project. (Need `cargo` CLI installed env.)
+  - [x] `yarn`/packages.json repos of a Node.js project. (Need `yarn` CLI installed env.)
 - Output to:
   - [x] STDOUT
   - [x] File

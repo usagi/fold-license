@@ -1,7 +1,7 @@
 format = "Toml"
-in = [".", "path/to/somewhere", "target/**/pattern/*"]
+in = [".", "examples/example.yarn", "path/to/somewhere", "target/**/pattern/*"]
 out = "target/output.toml"
-silent = true
+silent = false
 pretty = true
 cargo = true
 yarn = true
